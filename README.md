@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/c566a936-3917-4af3-8c8d-6dfc6d63b134)
+
 # OpenGL Universe
 
 This is an OpenGL project that demonstrates the rendering of a simple 3D environment with rotating spheres (Earth and Moon) and a textured background. The project also includes lighting effects and basic keyboard controls to manipulate the scene.
